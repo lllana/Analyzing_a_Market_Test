@@ -225,7 +225,7 @@
       <Properties>
         <Configuration>
           <Passwords />
-          <File OutputFileName="" FileFormat="19" SearchSubDirs="False" RecordLimit="">C:\Users\Lana\Desktop\Weekly_Store_Traffic.yxdb</File>
+          <File OutputFileName="" FileFormat="19" SearchSubDirs="False" RecordLimit="">C:\Users\Lana\Desktop\Udacity_AB-test-a-new-menu-launch\processed_data\Weekly_Store_Traffic.yxdb</File>
           <FormatSpecificOptions />
         </Configuration>
         <Annotation DisplayMode="0">
@@ -233,6 +233,9 @@
           <DefaultAnnotationText>Weekly_Store_Traffic.yxdb</DefaultAnnotationText>
           <Left value="False" />
         </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
         <MetaInfo connection="Output">
           <RecordInfo>
             <Field name="StoreID" size="254" source="Summarize: GroupBy - StoreID" type="V_String" />
@@ -252,7 +255,7 @@
       <Properties>
         <Configuration>
           <Passwords />
-          <File OutputFileName="" FileFormat="19" SearchSubDirs="False" RecordLimit="">C:\Users\Lana\Desktop\Store_list.yxdb</File>
+          <File OutputFileName="" FileFormat="19" SearchSubDirs="False" RecordLimit="">C:\Users\Lana\Desktop\Udacity_AB-test-a-new-menu-launch\processed_data\Store_list.yxdb</File>
           <FormatSpecificOptions />
         </Configuration>
         <Annotation DisplayMode="0">
@@ -260,6 +263,9 @@
           <DefaultAnnotationText>Store_list.yxdb</DefaultAnnotationText>
           <Left value="False" />
         </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
         <MetaInfo connection="Output">
           <RecordInfo>
             <Field name="StoreID" size="254" source="Summarize: GroupBy - StoreID" type="V_String" />
@@ -277,7 +283,7 @@
       </GuiSettings>
       <Properties>
         <Configuration>
-          <File FileFormat="19" MaxRecords="">C:\Users\Lana\Desktop\Control_Treatment_pair_West.yxdb</File>
+          <File FileFormat="19" MaxRecords="">C:\Users\Lana\Desktop\Udacity_AB-test-a-new-menu-launch\processed_data\Control_Treatment_pair_West.yxdb</File>
           <Passwords />
           <FormatSpecificOptions>
             <NoSpatialIndex>False</NoSpatialIndex>
@@ -323,7 +329,7 @@
       </GuiSettings>
       <Properties>
         <Configuration>
-          <File FileFormat="19" MaxRecords="">C:\Users\Lana\Desktop\Control_Treatment_pair_Central.yxdb</File>
+          <File FileFormat="19" MaxRecords="">C:\Users\Lana\Desktop\Udacity_AB-test-a-new-menu-launch\processed_data\Control_Treatment_pair_Central.yxdb</File>
           <Passwords />
           <FormatSpecificOptions>
             <NoSpatialIndex>False</NoSpatialIndex>
@@ -367,7 +373,7 @@
       </GuiSettings>
       <Properties>
         <Configuration>
-          <File FileFormat="19" MaxRecords="">C:\Users\Lana\Desktop\Control_Treatment_pair.yxdb</File>
+          <File FileFormat="19" MaxRecords="">C:\Users\Lana\Desktop\Udacity_AB-test-a-new-menu-launch\processed_data\Control_Treatment_pair.yxdb</File>
           <Passwords />
           <FormatSpecificOptions>
             <NoSpatialIndex>False</NoSpatialIndex>

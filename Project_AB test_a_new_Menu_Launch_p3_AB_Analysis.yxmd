@@ -3,7 +3,7 @@
   <Nodes>
     <Node ToolID="3">
       <GuiSettings>
-        <Position x="366" y="102" />
+        <Position x="354" y="78" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -31,19 +31,16 @@
           <DefaultAnnotationText />
           <Left value="False" />
         </Annotation>
-        <Dependencies>
-          <Implicit />
-        </Dependencies>
       </Properties>
       <EngineSettings Macro="Predictive Tools\AB_Analysis.yxmc" />
     </Node>
     <Node ToolID="4">
       <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
-        <Position x="570" y="174" />
+        <Position x="558" y="150" />
       </GuiSettings>
       <Properties>
         <Configuration>
-          <TempFile>C:\Users\Lana\AppData\Local\Temp\Engine_6112_66b9e4df05f6485fa26781c057c3911a_\Engine_8224_6ec9b37371f44d01b2aa451821b4d5ef_.yxdb</TempFile>
+          <TempFile>C:\Users\Lana\AppData\Local\Temp\Engine_9876_443fa023907c44f3975cc8886d2cc9cd_\Engine_8984_1deaab024cbf4ab5aa0bbdf2dd15e35f_.yxdb</TempFile>
           <TempFileDataProfiling />
           <Layout>
             <ViewMode>Single</ViewMode>
@@ -67,11 +64,11 @@
     </Node>
     <Node ToolID="5">
       <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
-        <Position x="486" y="78" />
+        <Position x="474" y="54" />
       </GuiSettings>
       <Properties>
         <Configuration>
-          <TempFile>C:\Users\Lana\AppData\Local\Temp\Engine_6112_66b9e4df05f6485fa26781c057c3911a_\Engine_8224_2400fd56002143e2a48c6ff8ff2a6dc1_.yxdb</TempFile>
+          <TempFile>C:\Users\Lana\AppData\Local\Temp\Engine_9876_443fa023907c44f3975cc8886d2cc9cd_\Engine_8984_b131736ed180432293f490908baf6605_.yxdb</TempFile>
           <TempFileDataProfiling />
           <Layout>
             <ViewMode>Single</ViewMode>
@@ -95,7 +92,7 @@
     </Node>
     <Node ToolID="7">
       <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
-        <Position x="66" y="186" />
+        <Position x="54" y="162" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -108,9 +105,6 @@
           <DefaultAnnotationText>Store_Sales_Analysis_Data.yxdb</DefaultAnnotationText>
           <Left value="False" />
         </Annotation>
-        <Dependencies>
-          <Implicit />
-        </Dependencies>
         <MetaInfo connection="Output">
           <RecordInfo>
             <Field name="StoreID" size="254" source="Summarize: GroupBy - StoreID" type="V_String" />
@@ -127,7 +121,7 @@
     </Node>
     <Node ToolID="8">
       <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
-        <Position x="66" y="90" />
+        <Position x="54" y="66" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -140,9 +134,6 @@
           <DefaultAnnotationText>Control_Treatment_pair_West.yxdb</DefaultAnnotationText>
           <Left value="False" />
         </Annotation>
-        <Dependencies>
-          <Implicit />
-        </Dependencies>
         <MetaInfo connection="Output">
           <RecordInfo>
             <Field name="Controls" size="1073741823" source="R-DATA:" type="V_WString" />
@@ -155,7 +146,7 @@
     </Node>
     <Node ToolID="9">
       <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
-        <Position x="78" y="342" />
+        <Position x="66" y="318" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -168,9 +159,6 @@
           <DefaultAnnotationText>Control_Treatment_pair_Central.yxdb</DefaultAnnotationText>
           <Left value="False" />
         </Annotation>
-        <Dependencies>
-          <Implicit />
-        </Dependencies>
         <MetaInfo connection="Output">
           <RecordInfo>
             <Field name="Controls" size="1073741823" source="R-DATA:" type="V_WString" />
@@ -183,7 +171,7 @@
     </Node>
     <Node ToolID="10">
       <GuiSettings>
-        <Position x="378" y="294" />
+        <Position x="366" y="270" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -211,19 +199,16 @@
           <DefaultAnnotationText />
           <Left value="False" />
         </Annotation>
-        <Dependencies>
-          <Implicit />
-        </Dependencies>
       </Properties>
       <EngineSettings Macro="Predictive Tools\AB_Analysis.yxmc" />
     </Node>
     <Node ToolID="11">
       <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
-        <Position x="522" y="294" />
+        <Position x="510" y="270" />
       </GuiSettings>
       <Properties>
         <Configuration>
-          <TempFile>C:\Users\Lana\AppData\Local\Temp\Engine_6112_66b9e4df05f6485fa26781c057c3911a_\Engine_8224_d54daee143b24efd91f6e059e9bf68f2_.yxdb</TempFile>
+          <TempFile>C:\Users\Lana\AppData\Local\Temp\Engine_9876_443fa023907c44f3975cc8886d2cc9cd_\Engine_8984_9a79ddf7b94044838175b043e5b2e23c_.yxdb</TempFile>
           <TempFileDataProfiling />
           <Layout>
             <ViewMode>Single</ViewMode>
@@ -247,11 +232,11 @@
     </Node>
     <Node ToolID="12">
       <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
-        <Position x="534" y="354" />
+        <Position x="522" y="330" />
       </GuiSettings>
       <Properties>
         <Configuration>
-          <TempFile>C:\Users\Lana\AppData\Local\Temp\Engine_6112_66b9e4df05f6485fa26781c057c3911a_\Engine_8224_e2c894732a0c41fab2e46f698ebbae21_.yxdb</TempFile>
+          <TempFile>C:\Users\Lana\AppData\Local\Temp\Engine_9876_443fa023907c44f3975cc8886d2cc9cd_\Engine_8984_8e1f9866597e4dcabfd9b1dace027abd_.yxdb</TempFile>
           <TempFileDataProfiling />
           <Layout>
             <ViewMode>Single</ViewMode>
@@ -275,7 +260,7 @@
     </Node>
     <Node ToolID="13">
       <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
-        <Position x="90" y="474" />
+        <Position x="78" y="450" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -288,9 +273,6 @@
           <DefaultAnnotationText>Control_Treatment_pair.yxdb</DefaultAnnotationText>
           <Left value="False" />
         </Annotation>
-        <Dependencies>
-          <Implicit />
-        </Dependencies>
         <MetaInfo connection="Output">
           <RecordInfo>
             <Field name="Controls" size="1073741823" source="R-DATA:" type="V_WString" />
@@ -303,7 +285,7 @@
     </Node>
     <Node ToolID="14">
       <GuiSettings>
-        <Position x="354" y="474" />
+        <Position x="342" y="450" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -331,19 +313,16 @@
           <DefaultAnnotationText />
           <Left value="False" />
         </Annotation>
-        <Dependencies>
-          <Implicit />
-        </Dependencies>
       </Properties>
       <EngineSettings Macro="Predictive Tools\AB_Analysis.yxmc" />
     </Node>
     <Node ToolID="15">
       <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
-        <Position x="486" y="438" />
+        <Position x="474" y="414" />
       </GuiSettings>
       <Properties>
         <Configuration>
-          <TempFile>C:\Users\Lana\AppData\Local\Temp\Engine_6112_66b9e4df05f6485fa26781c057c3911a_\Engine_8224_e74f4dd90ef54e0e90fba57c8d896192_.yxdb</TempFile>
+          <TempFile>C:\Users\Lana\AppData\Local\Temp\Engine_9876_443fa023907c44f3975cc8886d2cc9cd_\Engine_8984_401ca1100ad74938965ef761b046f4e2_.yxdb</TempFile>
           <Layout>
             <View1>
               <Hints>
@@ -362,11 +341,11 @@
     </Node>
     <Node ToolID="16">
       <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
-        <Position x="510" y="522" />
+        <Position x="498" y="498" />
       </GuiSettings>
       <Properties>
         <Configuration>
-          <TempFile>C:\Users\Lana\AppData\Local\Temp\Engine_6112_66b9e4df05f6485fa26781c057c3911a_\Engine_8224_99992407d5f64e469d5f7080c7575537_.yxdb</TempFile>
+          <TempFile>C:\Users\Lana\AppData\Local\Temp\Engine_9876_443fa023907c44f3975cc8886d2cc9cd_\Engine_8984_e0a1fadd95ed400193b600d89deeea92_.yxdb</TempFile>
           <TempFileDataProfiling />
           <Layout>
             <ViewMode>Single</ViewMode>
